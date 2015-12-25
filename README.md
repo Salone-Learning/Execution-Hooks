@@ -6,7 +6,7 @@ Execution Hooks is a general purpose framework which provides this feature for a
 
 ### Examples
 
-Following are 2 examples which demostrate the usage of the framework:
+Following are 2 examples which demonstrate the usage of the framework:
 
 ##### For existing class
 
