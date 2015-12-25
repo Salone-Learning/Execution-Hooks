@@ -76,6 +76,7 @@ Suppose NewClass is the class to which user wants to add before_action feature. 
 
     before_action :set_num, :get_num
   end
+```
 
 ## Contributing
 
